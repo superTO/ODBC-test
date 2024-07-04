@@ -1,0 +1,12 @@
+.venv
+.idea
+package
+temp
+.scannerwork
+logs
+__pycache__/
+RootDisk/TestImages/*
+RootDisk/PredictImages/*
+
+test.py
+wrongTest.py
